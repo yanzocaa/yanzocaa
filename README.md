@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**yanzocaa/yanzocaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Iai 👋
 
 Boas vindas ao meu perfil 💙💙
 Meu nome é Isabella
